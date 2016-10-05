@@ -1,0 +1,5 @@
+.DS_Store
+config.codekit
+*.jade
+*.scss
+.sass-cache
